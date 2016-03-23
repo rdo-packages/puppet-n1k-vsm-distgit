@@ -1,4 +1,4 @@
-Name:           puppet-n1kv_vsm
+Name:           puppet-n1k-vsm
 Version:        XXX
 Release:        XXX
 Summary:        Puppet module for Cisco Nexus1000v VSM
@@ -41,4 +41,3 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/n1k_vsm/
 
 
 %changelog
-
