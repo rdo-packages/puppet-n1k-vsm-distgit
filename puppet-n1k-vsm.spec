@@ -7,8 +7,8 @@
 
 
 Name:           puppet-n1k-vsm
-Version:        XXX
-Release:        XXX
+Version:        0.0.1
+Release:        0.1%{?alphatag}%{?dist}
 Summary:        Puppet module for Cisco Nexus1000v VSM
 License:        Apache License 2.0
 
@@ -49,3 +49,6 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/n1k_vsm/
 
 
 %changelog
+* Thu Sep 22 2016 Haikel Guemar <hguemar@fedoraproject.org> - 0.0.1-0.1.91772fa.git
+- Newton update 0.0.1 (91772fa53dd3ed2686d2e8b0303c77ea6faefe68)
+
