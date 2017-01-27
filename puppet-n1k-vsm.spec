@@ -10,7 +10,7 @@ Name:           puppet-n1k-vsm
 Version:        0.0.2
 Release:        1%{?alphatag}%{?dist}
 Summary:        Puppet module for Cisco Nexus1000v VSM
-License:        Apache License 2.0
+License:        ASL 2.0
 
 URL:            https://launchpad.net/puppet-n1k-vsm
 
