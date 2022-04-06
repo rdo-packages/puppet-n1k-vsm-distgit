@@ -16,6 +16,24 @@
       "message": "puppet-n1k-vsm was previously required by tripleo but that dependency was removed a while ago.\n https://review.rdoproject.org/r/c/puppet/puppet-tripleo-distgit/+/34072\n\nIt might make sense to drop the package, assuming we don\u0027t expect any valid use cases outside of TripleO.",
       "revId": "a7744edb273a42e0f0002d2f9a2fe823750e36e5",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b31bcf34_d79f9560",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2022-04-06T15:04:31Z",
+      "side": 1,
+      "message": "Thank you Takashi for the feedback",
+      "parentUuid": "aede51af_59d3f6df",
+      "revId": "a7744edb273a42e0f0002d2f9a2fe823750e36e5",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     }
   ]
 }
